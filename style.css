@@ -1,0 +1,211 @@
+.header{
+	/*border: 2px solid red;*/
+	width: 100%;
+	height: 62vh;
+	display: inline-block;
+	position: relative;
+}
+.slider{
+	/*border: 2px solid red;*/
+	width: 100%;
+	height: 100vh;
+	position: relative;
+	display: inline-block;
+	
+}
+.footer{
+	/*border: 2px solid red;*/
+	width: 100%;
+	height: 50vh;
+	position: absolute;
+	display: inline-block;
+}
+.name{
+	/*border: 2px solid green;*/
+	width: 45%;
+	height: 40vh;
+	display: inline-block;
+	position: absolute;
+}
+.education{
+	/*border: 2px solid green;*/
+	width: 45%;
+	height: 60vh;
+	display: inline-block;
+	position: absolute;
+	left: 50%;
+
+}
+.profile{
+	/*border: 2px solid blue;*/
+	width: 45%;
+	height: 30vh;
+	display: inline-block;
+	position: absolute;
+	left: 0%;
+	top: -21px%;
+
+}
+.contact{
+	/*border: 2px solid blue;*/
+	display: inline-block;
+	width: 45%;
+	height: 30vh;
+	position: absolute;
+	left: 0%;
+	top: 31%;
+}
+.experience{
+	/*border: 2px solid blue;*/
+	display: inline-block;
+	width: 45%;
+	height: 80vh;
+	position: absolute;
+	left: 50%;
+	top: 71%;
+}
+.skill{
+	/*border: 2px solid coral;*/
+	width: 45%;
+	height: 50vh;
+	display: inline-block;
+	position: absolute;
+	left: 0;
+	top: -221px;
+}
+.soft{
+	/*border: 2px solid coral;*/
+	width: 45%;
+	height: 50vh;
+	display: inline-block;
+	position: absolute;
+	left: 49%;
+	top: -72px;
+}
+
+.logo{
+	width: 60px;
+	position: absolute;
+	top: 5px;
+	left: 30%;
+}
+.text1 p{
+	
+	position: absolute;
+	top: 46px;
+	left: 128px;
+	text-align:center;
+}
+.education h5{
+	color: blue;
+	margin: 0;
+	padding: 0;
+}
+.education p{
+	margin: 0;
+	padding: 0;
+}
+.education h1{
+	color: blue;
+	margin: 0;
+	padding: 0;
+}
+#img1{
+	width: 5%;
+	position: absolute;
+	top: 0;
+	left: 5px;
+}
+#h1{
+	position: absolute;
+	top: -18px;
+	left: 45px;
+	color: blue;
+}
+#h2{
+	position: absolute;
+	top: 15px;
+	left: 0;
+}
+#img2{
+	width: 5%;
+	position: absolute;
+	top: 0;
+	left: 5px;
+}
+#h3{
+	position: absolute;
+	top: -18px;
+	left: 45px;
+	color: blue;
+}
+#h4{
+	position: absolute;
+	top: 15px;
+	left: 2px;
+	color: blue;
+}
+#img3{
+	width: 9%;
+	position: absolute;
+	top: 0;
+	left: 5px;
+}
+#h5{
+	position: absolute;
+	top: -15px;
+	left: 56px;
+	color: blue;
+}
+.experience h5{
+	margin: 0;
+	padding: 0;
+	color: black;
+	font-weight: bold;
+}
+.experience p{
+	margin: 0;
+	padding: 0;
+}
+.experience ul{
+	position: absolute;
+	left: -5px;
+	top: 36px;
+}
+#img4{
+	width: 9%;
+	position: absolute;
+	top: 0;
+	left: 5px;
+}
+#h6{
+	position: absolute;
+	top: -5px;
+	left: 66px;
+	color: blue;
+}
+#img5{
+	width: 9%;
+	position: absolute;
+	top: 0;
+	left: 5px;
+}
+#h7{
+	position: absolute;
+	top: -5px;
+	left: 60px;
+	color: blue;
+}
+#txt2{
+	position: absolute;
+	left: 3px;
+	top: 38px;
+}
+#txt3{
+	position: absolute;
+	left: 3px;
+	top: 38px;
+}
+.overlay{
+	color: rgba(0,0,0,5.5);
+}
